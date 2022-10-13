@@ -1,0 +1,98 @@
+header {
+    background-color: darkgray;
+}
+body{
+    margin: 0;
+}
+.Name{
+    font-size: 45px;
+    margin: 0;
+    padding-top: 15px;
+}
+.SE {
+    margin-top: 5px;
+}
+#Address{
+    margin-bottom: -10px;
+}
+#Phone{
+    margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+body{
+    background-color: rgb(178, 175, 175);
+}
+.Skillz{
+    border-bottom: 1px solid black;
+
+}
+.Work{
+    border-bottom: 1px solid black;
+}
+.Edu{
+    border-bottom: 1px solid black;
+}
+.list1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.SDR{
+    display: flex;
+    justify-content: center;
+}
+.city1{
+    display: flex;
+    justify-content: center;
+    margin-top: -15px;
+    margin-right: 38px;
+}
+.list2{
+    display: inline-block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 700px;
+
+}
+.date1{
+    display: flex;
+    justify-content:flex-start;
+    margin-top: -37px;
+}
+.server{
+    display: flex;
+    justify-content: center;
+    margin-right: 228px;
+}
+.date2{
+    margin-top: -37px;
+}
+.city2{
+    display: flex;
+    justify-content: center;
+    margin-top: -15px;
+}
+.list3{
+    display: inline-block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 700px;
+}
+.BS{
+    display: flex;
+    justify-content: center;
+}
+.date3{
+    margin-top: -37px;
+}
+.city3{
+    display: flex;
+    justify-content: center;
+    margin-top: -15px;
+}
